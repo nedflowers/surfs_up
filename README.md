@@ -1,17 +1,15 @@
-# Surfs Up
+# Surf's Up
 
 ## Overview of Project
 Analyze temperature data for the months of June and December in the Hawaiian island of Oahu. Using the gathered temperature data, visualize temperature trends to determine if a surf and ice cream shop is a sustainable business venture year-round. 
 
 ## Results
 
-### Dataframes
-[IMAGE]
-[Image]
+### DataFrames
+<img width="140" alt="june_temps_df" src="https://user-images.githubusercontent.com/95272294/154897043-d6e3a286-569c-4759-aea7-c95d664492bb.png">  <img width="163" alt="dec_temps_df" src="https://user-images.githubusercontent.com/95272294/154897092-2cbab8eb-0348-4da5-ac3b-7bb16b35672e.png">
 
-### Dataframe Summaries
-[IMAGE]
-[Image]
+### DataFrame Summaries
+<img width="147" alt="june_temps_desc" src="https://user-images.githubusercontent.com/95272294/154897392-23c71e4b-e199-411b-a8f5-b406d9aeceaf.png">  <img width="139" alt="dec_temps_desc" src="https://user-images.githubusercontent.com/95272294/154897604-ddbc7934-8654-4086-988f-6d8ab4efd771.png">
 
  
 ### Comparison
