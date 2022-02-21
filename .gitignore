@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 climate_analysis.sqlite
 climate_analysis.ipynb
+.vscode/
 
