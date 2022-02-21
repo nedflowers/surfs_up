@@ -130,4 +130,6 @@ dmypy.json
 climate_analysis.sqlite
 climate_analysis.ipynb
 .vscode/
+app.py
+app_practice.py
 
